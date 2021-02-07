@@ -1,5 +1,5 @@
 /* Global Variables */
-let API_KEY='63ca08382ae4db6658b0b6291f1ac302';
+let API_KEY='';
 // Create a new date instance dynamically with JS
 let d = new Date();
 let newDate = d.getMonth()+'.'+ d.getDate()+'.'+ d.getFullYear();
